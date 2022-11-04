@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+aiofiles
+Jinja2
+pytest
+requests
